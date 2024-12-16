@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Jagannatha K"
+echo "enter name"
 read name
-echo "83"
+echo "enter marks"
 read marks
 
 if [ $marks is -ge 50 ]

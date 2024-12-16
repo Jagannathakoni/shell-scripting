@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Jagannatha"
+echo "enter name"
 read name
 
 echo "Hi $name have a Good Day"
